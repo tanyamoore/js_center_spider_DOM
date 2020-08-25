@@ -1,0 +1,1 @@
+{"version":3,"sources":["scripts/main.js"],"names":["document","querySelector","style","cssText"],"mappings":";AAAA,aAEAA,SAASC,cAAc,WAAWC,MAAMC,QACpC","file":"main.b2bde1d0.js","sourceRoot":"..\\src","sourcesContent":["'use strict';\n\ndocument.querySelector('.spider').style.cssText\n  = 'margin: 50%; transform: translate(-50%, -50%)';\n"]}
